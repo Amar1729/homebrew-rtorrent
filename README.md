@@ -1,6 +1,6 @@
 # Amar1729 Rtorrent
 
-Local tap for installation of [rotrrent](https://github.com/rakshasa/rtorrent) (and [libtorrent](https://github.com/rakshasa/libtorrent)).
+Local tap for installation of [rtorrent](https://github.com/rakshasa/rtorrent) (and [libtorrent](https://github.com/rakshasa/libtorrent)).
 
 ## How do I install these formulae?
 `brew install amar1729/rtorrent/<formula>`
