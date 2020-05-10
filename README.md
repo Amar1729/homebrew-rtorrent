@@ -1,4 +1,4 @@
-# Amar1729 Rtorrent
+# Rtorrent
 
 Local tap for installation of [rtorrent](https://github.com/rakshasa/rtorrent) (and [libtorrent](https://github.com/rakshasa/libtorrent)).
 
