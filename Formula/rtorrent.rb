@@ -30,4 +30,10 @@ class Rtorrent < Formula
 
     doc.install "doc/rtorrent.rc"
   end
+
+  def caveats
+    <<~EOS
+      Deprecated. Use homebrew-core/rtorrent instead.
+    EOS
+  end
 end

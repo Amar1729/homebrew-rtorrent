@@ -1,6 +1,16 @@
-# Rtorrent
+# rtorrent
 
 Local tap for installation of [rtorrent](https://github.com/rakshasa/rtorrent) (and [libtorrent](https://github.com/rakshasa/libtorrent)).
+
+## Deprecated
+
+rtorrent was [added to Homebrew](https://github.com/Homebrew/homebrew-core/pull/54814) at v0.9.8 in May 2020.
+
+Current version: [rtorrent](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rtorrent.rb)
+
+Use homebrew-core's version with `brew install rtorrent` instead.
+
+----
 
 ## How do I install these formulae?
 `brew install amar1729/rtorrent/<formula>`
